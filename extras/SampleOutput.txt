@@ -1,0 +1,220 @@
+-----------------Welcome to ABC Library------------------------
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+1
+--------------------------------------------------
+Adding Book
+Enter book details (title, author, ISBN, year): 
+JavaBasics
+JohnDoe
+12345
+2021
+New book added - JavaBasics!!!
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+7
+--------------------------------------------------
+Adding Patron
+Enter new Patron details (name, ID): 
+Alice
+alice01
+New Patron Added - alice01!!!
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+7
+--------------------------------------------------
+Adding Patron
+Enter new Patron details (name, ID): 
+Bob
+bob01
+New Patron Added - bob01!!!
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+12
+--------------------------------------------------
+Available books : 
+Currently there are 1 available. 
+JavaBasics, JohnDoe
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+13
+--------------------------------------------------
+Borrowed books : 
+Currently there are 0 books borrowed. 
+No books borrowed
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+9
+--------------------------------------------------
+Checkout Book
+Enter ISBN of book to checkout: 
+12345
+Enter user ID: 
+bob01
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+11
+--------------------------------------------------
+Reserve Book
+Enter ISBN of book to reserve: 
+12345
+Enter Patron ID: 
+alice01
+You have successfully reserved the book.
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+10
+--------------------------------------------------
+Return Book
+Enter ISBN of book to return: 
+12345
+Notification for Alice: The book 'JavaBasics' is now available.
+**************************************************
+Choose an operation:
+1: Add Book
+2: Remove Book
+3: Update Book
+4: Search Book by Title
+5: Search Book by Author
+6: Search Book by ISBN
+7: Add User
+8: Update User
+9: Checkout Book
+10: Return Book
+11: Reserve Book
+12: Available Books
+13: Borrowed Books
+0: Exit
+**************************************************
+Enter you choice : 
+0
+--------------------------------------------------
+Thank you for visiting ABC Library. 
