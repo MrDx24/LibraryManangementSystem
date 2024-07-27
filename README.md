@@ -1,7 +1,11 @@
 # Library Management System
-![Library Management System](extras/SampleOutput.txt)
+
+
+
 ## Overview
 This Library Management System is a Java-based application designed to manage books, patrons, and lending processes in a library. It provides functionality for book and patron management, book checkout and return, and a reservation system.
+
+You can find output of the project code in the [SampleOutput](extras/SampleOutput.txt) file.
 
 ## Features
 - Book Management: Add, remove, update, and search for books
@@ -16,6 +20,9 @@ This Library Management System is a Java-based application designed to manage bo
 - `org.airtribe.library`: Contains the Library class which manages the core functionality
 - `org.shared`: Contains Observer and Notification interfaces for the reservation system
 - `org.example`: Contains the Main class to run the application
+
+- Here is the class diagram for the project: 
+![Library Management System](extras/ClassDiagram.png)
 
 ## How to Run
 1. Compile all Java files in the project
